@@ -95,12 +95,6 @@
 
 ---
 
-### ⚡ Fun Fact  
-I started coding with **GW-BASIC** and built my first house pattern program back in school — that’s where it all began.  
-Now I’m passionate about mastering high-performance **.NET systems** and creating **AI integrated smart systems**.
-
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TalhaAhmad-Codes&show_icons=true&theme=github_dark" height="160px" alt=""/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TalhaAhmad-Codes&theme=github-dark-blue" height="160px"/>
