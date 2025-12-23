@@ -88,6 +88,9 @@
   <a href="https://www.facebook.com/profile.php?id=61585650534820" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
+  <a href="https://www.instagram.com/talhaahmadtech/?next=%2F" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
   <a href="mailto:talha.ahmad.tech@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
