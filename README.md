@@ -73,6 +73,7 @@
 
 ### 📂 Featured Projects
 - 🔸 [**Pizza X (.NET Project)**](https://github.com/TalhaAhmad-Codes/Pizza-X) — Enterprise-grade WPF app implementing layered architecture with EF.
+- 🔸 [**Blogora (ASP.NET Project)**] - A blog website built for portfolio, with a [friend](https://github.com/Raza2911-rd/) (who's created frontend on React).
 - 🔸 [**Reversi (Python Project)**](https://github.com/TalhaProgrammer92/Reversi-Game) — A feature-rich game for desktop including features like puzzles, matches, etc. and follows proper SoC.
 
 ---
