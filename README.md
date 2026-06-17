@@ -4,7 +4,7 @@
 ---
 
 ### ✨ About
-<p>I’m an aspiring full stack AI Developer specialized in Dotnet and Azure, who loves turning ideas into efficient, scalable, and maintainable software. I focus on writing clean, logical, and well-structured code using .NET ecosystem, Azure, and AI technologies.</p>
+<p>I’m an aspiring full stack .NET Developer in Dotnet, who loves turning ideas into efficient, scalable, and maintainable software. I focus on writing clean, logical, and well-structured code using .NET ecosystem.</p>
 
 💡 Passionate about building scalable, efficient, and maintainable software solutions.  
 🎯 Focused on smart enterprise-level solutions.
@@ -12,9 +12,11 @@
 ---
 
 ### 🧠 Tech Stack
-<p align="center">
+<p>
 
 <!-- Core Languages & Frameworks -->
+<h4>Languages & Frameworks</h4>
+<p align="center">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -24,7 +26,7 @@
 <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
+</p>
 <!-- Backend / APIs -->
 <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=nuget&logoColor=white" />
 <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
