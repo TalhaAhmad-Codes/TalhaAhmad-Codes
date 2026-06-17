@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Talha Ahmad</h1>
-<h3 align="center">Full Stack AI Developer | .NET ecosystem | Azure & SQL Server | Smart Scalable Solutions</h3>
+<h3 align="center">Full Stack .NET Developer | .NET ecosystem | SQL Server | Scalable Enterprise Solutions</h3>
 
 ---
 
