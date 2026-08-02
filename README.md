@@ -78,9 +78,9 @@
   <img src="https://img.shields.io/badge/JetBrains_Rider-000000?style=for-the-badge&logo=jetbrains-rider&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white" />
@@ -99,6 +99,7 @@
 
 ### 📂 Featured Projects
 - 🔸 [**Smart Academic Communication Platform**](https://github.com/TalhaAhmad-Codes/Smart-Academic-Communication-Platform) — A smart centralized communication ecosystem for academic institutions to reduce manual workload and human errors. It's my **final year project** as *BSCS student at University of the Punjab*.
+- 🔸 [**Pizza X**](https://github.com/TalhaAhmad-Codes/PizzaX) - A complete ERP solution for small to mid scale Pizza restaurants including POS and CRM features with AI-based automation workflows.
 - 🔸 **Blogora** - A blog website built for portfolio, with a [friend](https://github.com/Raza2911-rd/) (who's created frontend on React).
 - 🔸 **Talent Flow** - Contributed as a backend developer and fixed bugs and added up to 30 API endpoints into this project. It was an ERP and created on Clean Architecture.
 
