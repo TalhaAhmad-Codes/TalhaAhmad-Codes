@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hi, I'm Talha Ahmad</h1>
-<h3 align="center">Full Stack .NET Developer | .NET ecosystem | SQL Databases | Scalable Enterprise Solutions</h3>
+<h3 align="center">Full Stack Developer | .NET | MERN | Python | SQL & NoSQL Databases | Web Solutions</h3>
 
 ---
 
 ### ✨ About
-<p>I’m a full stack .NET Developer in Dotnet, who loves turning ideas into efficient, scalable, and maintainable software. I focus on writing clean, logical, and well-structured code using .NET ecosystem.</p>
+<p>I’m an aspiring full stack Developer in .NET and MERN domains, who loves turning ideas into efficient, scalable, and maintainable software. I focus on writing clean, logical, and well-structured code using either .NET or JS ecosystem when needed.</p>
 
 💡 Passionate about building scalable, efficient, and maintainable software solutions.  
-🎯 Focused on smart enterprise-level solutions.
+🎯 Focused on small to enterprise-level solutions.
 
 ---
 
@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/WinForms-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white" />
@@ -39,6 +40,8 @@
   <img src="https://img.shields.io/badge/Hangfire-852424?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/NUnit-005C9E?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/MediatR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=swagger&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT%20Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
@@ -57,6 +60,7 @@
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 <h4>🌐 CLoud & Deployment</h4>
