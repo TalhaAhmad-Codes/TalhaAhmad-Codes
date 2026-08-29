@@ -4,7 +4,7 @@
 ---
 
 ### ✨ About
-<p>I’m an aspiring full stack Developer in .NET and MERN domains, who loves turning ideas into efficient, scalable, and maintainable software. I focus on writing clean, logical, and well-structured code using either .NET or JS ecosystem when needed.</p>
+<p>I’m an aspiring Full Stack Developer in .NET and MERN domains, who loves turning ideas into efficient, scalable, and maintainable software. I focus on writing clean, logical, and well-structured code using either .NET or JS ecosystem when needed.</p>
 
 💡 Passionate about building scalable, efficient, and maintainable software solutions.  
 🎯 Focused on small to enterprise-level solutions.
@@ -96,14 +96,15 @@
 
 ### 🧩 What I’m Currently Working On
 - 🏗️ A **Web Application** following VSA and distributed system architecture.
-- ⚙️ Implementing **ASP.NET Core Web APIs** for backend system.
+- ⚙️ Implementing **RESTful APIs** for backend systems.
 - 💻 Exploring advanced **Design Patterns** and best practices in .NET.
 
 ---
 
 ### 📂 Featured Projects
 - 🔸 [**Smart Academic Communication Platform**](https://github.com/TalhaAhmad-Codes/Smart-Academic-Communication-Platform) — A smart centralized communication ecosystem for academic institutions to reduce manual workload and human errors. It's my **final year project** as *BSCS student at University of the Punjab*.
-- 🔸 [**Pizza X**](https://github.com/TalhaAhmad-Codes/PizzaX) - A complete ERP solution for small to mid scale Pizza restaurants including POS and CRM features with AI-based automation workflows.
+- 🔸 [**Campus Issue Tracker**](https://github.com/TalhaAhmad-Codes/Campus-Issue-Tracker) - A simple campus issue tracker web application to demonstrate my understanding of MERN stack. It contains basic roles and simple issue tracking flow. It's not a capstone project.
+<!-- 🔸 [**Pizza X**](https://github.com/TalhaAhmad-Codes/PizzaX) - A complete ERP solution for small to mid scale Pizza restaurants including POS and CRM features with AI-based automation workflows.-->
 - 🔸 **Blogora** - A blog website built for portfolio, with a [friend](https://github.com/Raza2911-rd/) (who's created frontend on React).
 - 🔸 **Talent Flow** - Contributed as a backend developer and fixed bugs and added up to 30 API endpoints into this project. It was an ERP and created on Clean Architecture.
 
