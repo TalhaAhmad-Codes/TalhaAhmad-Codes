@@ -102,11 +102,15 @@
 ---
 
 ### 📂 Featured Projects
-- 🔸 [**Smart Academic Communication Platform**](https://github.com/TalhaAhmad-Codes/Smart-Academic-Communication-Platform) — A smart centralized communication ecosystem for academic institutions to reduce manual workload and human errors. It's my **final year project** as *BSCS student at University of the Punjab*.
-- 🔸 [**Campus Issue Tracker**](https://github.com/TalhaAhmad-Codes/Campus-Issue-Tracker) - A simple campus issue tracker web application to demonstrate my understanding of MERN stack. It contains basic roles and simple issue tracking flow. It's not a capstone project.
+🔸 [**Smart Academic Communication Platform**](https://github.com/TalhaAhmad-Codes/Smart-Academic-Communication-Platform) — A smart centralized communication ecosystem for academic institutions to reduce manual workload and human errors. It's my **final year project** as *BSCS student at University of the Punjab*.
+
+🔸 [**Campus Issue Tracker**](https://github.com/TalhaAhmad-Codes/Campus-Issue-Tracker) - A simple campus issue tracker web application to demonstrate my understanding of MERN stack. It contains basic roles and simple issue tracking flow. It's not a capstone project.
+
 <!-- 🔸 [**Pizza X**](https://github.com/TalhaAhmad-Codes/PizzaX) - A complete ERP solution for small to mid scale Pizza restaurants including POS and CRM features with AI-based automation workflows.-->
-- 🔸 **Blogora** - A blog website built for portfolio, with a [friend](https://github.com/Raza2911-rd/) (who's created frontend on React).
-- 🔸 **Talent Flow** - Contributed as a backend developer and fixed bugs and added up to 30 API endpoints into this project. It was an ERP and created on Clean Architecture.
+
+🔸 **Blogora** - A blog website built for portfolio, with a [friend](https://github.com/Raza2911-rd/) (who's created frontend on React).
+
+🔸 **Talent Flow** - Contributed as a backend developer and fixed bugs and added up to 30 API endpoints into this project. It was an ERP and created on Clean Architecture.
 
 ---
 
