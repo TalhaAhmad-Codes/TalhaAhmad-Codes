@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Talha Ahmad</h1>
-<h3 align="center">Full Stack Developer | .NET | MERN | Python | SQL & NoSQL Databases | Web Solutions</h3>
+<h3 align="center">Full Stack Developer | .NET | MERN | SQL & NoSQL Databases | Web Solutions</h3>
 
 ---
 
