@@ -104,7 +104,7 @@
 ### 📂 Featured Projects
 🔸 [**Smart Academic Communication Platform**](https://github.com/TalhaAhmad-Codes/Smart-Academic-Communication-Platform) — A smart centralized communication ecosystem for academic institutions to reduce manual workload and human errors. It's my **final year project** as *BSCS student at University of the Punjab*.
 
-🔸 [**Campus Issue Tracker**](https://github.com/TalhaAhmad-Codes/Campus-Issue-Tracker) - A simple campus issue tracker web application to demonstrate my understanding of MERN stack. It contains basic roles and simple issue tracking flow. It's not a capstone project.
+🔸 [**Punjab Computer**] - It's a desktop based solution for my father's business and manage various daily operations like sales, purchases, and repairing.
 
 <!-- 🔸 [**Pizza X**](https://github.com/TalhaAhmad-Codes/PizzaX) - A complete ERP solution for small to mid scale Pizza restaurants including POS and CRM features with AI-based automation workflows.-->
 
