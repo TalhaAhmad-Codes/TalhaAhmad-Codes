@@ -104,7 +104,7 @@
 ### 📂 Featured Projects
 🔸 [**Smart Academic Communication Platform**](https://github.com/TalhaAhmad-Codes/Smart-Academic-Communication-Platform) — A smart centralized communication ecosystem for academic institutions to reduce manual workload and human errors. It's my **final year project** as *BSCS student at University of the Punjab*.
 
-🔸 [**Punjab Computer**] - It's a desktop based solution for my father's business and manage various daily operations like sales, purchases, and repairing.
+🔸 **Punjab Computer** - It's a desktop based solution for my father's business and manage various daily operations like sales, purchases, and repairing.
 
 <!-- 🔸 [**Pizza X**](https://github.com/TalhaAhmad-Codes/PizzaX) - A complete ERP solution for small to mid scale Pizza restaurants including POS and CRM features with AI-based automation workflows.-->
 
